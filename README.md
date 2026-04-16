@@ -1,6 +1,6 @@
 # 🛡️ CyberLab: Advanced Threat Simulation Environment
 
-![CyberLab Banner](https://picsum.photos/seed/cybersecurity/1200/400?blur=2)
+
 
 ## 🎓 Academic Profile
 **Student Name:** Anand V Nath  
