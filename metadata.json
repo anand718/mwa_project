@@ -1,0 +1,6 @@
+{
+  "name": "CyberLab: Threat Simulator",
+  "description": "An educational cybersecurity dashboard for simulating common threats like Ransomware, Viruses, and Remote Access Control in a controlled environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
